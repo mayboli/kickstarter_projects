@@ -1,4 +1,4 @@
-# li_hw1
+# kickstarter_projects
 
 Using data from 4000+ past Kickstarter projects, I have attempted to analyze hidden market trends using Excel. These data show the specific campaign's goal, pledged amount, and state (whether it was successful, failed, canceled, or live), the dates which it ran from, and the categories they belong in. 
 
